@@ -1,13 +1,12 @@
 
 # 這個是local-server用
 
- * gulp
-
+* gulp
 <hr>
 
 # 這個是build專案用
-
- * gulp build --env prod
+
+* gulp build --env prod 
 
 <hr>
 
